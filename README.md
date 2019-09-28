@@ -13,3 +13,5 @@ Uma vez que o tópico físico de nossa escolha foi estudado através de simulaç
 Deliverables: Entregamos (a) um documento relatando a escolha do tópico físico a ser investigado, com um pequeno esboço de o que se espera com a investigação desse tópico, (b) um documento relatando o processo, os resultados e conclusões de sua investigação e (c) os programas usados em sua investigação. Além de entregar esse material, o grupo fez uma apresentação oral de 10 a 15 minutos sobre seu trabalho.
 
 O documento (a) deve ser entregue até o dia 16/6. Este documento deve ser sucinto (uma página). O documento (b) e os programas (c) devem ser entregues até o dia 23/6.
+
+PS: é interessante notar que o programa final conta com as funcionalidades daquele apresentado em A.pdf, porém, com diversas outras funcionalidades, que englobam um estudo sobre como arredondamentos podem afetar o desempenho de simulações e um estudo sobre o efeitos borboletas dentro de sistemas fechados.
